@@ -24,7 +24,7 @@ This application is a backend application servicing front end routes and using M
 
 ### Open your favorite web browser and enter the following web address to access
 
-https://github.com/Milfred08/E-commerce-Back-End
+https://github.com/Milfred08/E-commerce-Back-End/tree/master/E-commerce
 
 
 <a name="usage"></a>
@@ -46,16 +46,16 @@ If you are still intersted in running the application you would need to do the f
 
 Part 1 - Creat, Sync and Seed
 
-https://drive.google.com/file/d/1z2XNqvDgF5Hh081kiiVU7YK6Me6oVYZg/view
+coming soon
 
 Part 2 -  Functionality 
 
-https://drive.google.com/file/d/1Zyrp9xGGHMUgavJ0maclr-Fy3khwZhAI/view
+coming soon
 
 
 Part 3 - Functionality #2
 
-https://drive.google.com/file/d/1rrdGjDfXXBAhJCULTVtFThZ9iggzaNVh/view
+coming soon
 
 
 <a name="features"></a>
